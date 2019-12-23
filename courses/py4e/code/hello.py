@@ -1,2 +1,3 @@
-print('hwllo')
+print('hello')
 print('42')
+
